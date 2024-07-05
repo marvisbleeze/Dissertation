@@ -1,0 +1,213 @@
+Overall_Rating,Role,Lack of funding,Lack of infrastructure,Market competition,Poor or no electricity,Regulatory challenges,Talent acquisition/retention,All of the above,Government policies,Inability to retain talents,Inadequate funding,Lack of infrastructure,Lack of innovation,Market saturation,Poor infrastructure,Poor management,"Poor regulations, poor management and lack of innovation",Regulatory hurdles,Stringent business environment,infrastructure scaling,Age_Range,Talent_Availability,Access to funding,Government should regulate the sector in order to make remuneration attractive to avoid mass exodus of talents.,Infrastructure,Mentorship programs,Regulatory framework,Talent development,Access to capital,Lack of mentorship,Market penetration,Mismanagement,Regulatory hurdles,Talent retention,Education_Level,Accountability,Improved Infrastructure,Increased access to funding,Public-private partnerships,Talent development programs,Targeted regulatory reforms,Cultural_Influence,Angel Investors,Crowdfunding,Family and sponsors support,From family and friends,Government grants,Personal Savings,Venture Capitalists,Collaboration_Level,They are neither helpful nor obstructive to business operations,They facilitate smooth operations and ensure a level playing field,They occasionally impede business agility and innovation.,They provide some guidance but often add unnecessary bureaucratic burden,They significantly hinder business growth and profitability,Innovative solutions,Local market knowledge,Low operational costs,Skilled workforce
+Good,Employee,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,25-34 years,Good,1,0,0,0,0,0,0,0,1,0,0,0,Master's Degree,0,1,0,0,0,0,Moderately,0,0,0,0,0,1,1,Average,1,0,0,0,0,0,0,1,0
+Excellent,Investor,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,25-34 years,Excellent,1,0,0,0,0,0,0,1,0,0,0,0,Master's Degree,0,0,0,1,1,0,Significant,0,0,0,0,0,1,0,Average,1,0,0,0,0,1,0,0,0
+Average,Employee,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,25-34 years,Good,1,0,0,0,0,0,1,0,0,0,0,0,Bachelor's Degree,0,0,0,1,0,0,Significant,0,0,0,0,0,0,1,Average,0,0,1,0,0,1,0,0,1
+Average,Employee,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,25-34 years,Excellent,1,0,0,1,0,1,1,0,0,0,0,0,Master's Degree,0,0,1,1,1,0,Significant,0,0,0,0,0,1,1,Excellent,0,0,1,0,1,0,1,0,1
+Average,Employee,1,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,18-24 years,Average,1,0,1,0,1,1,0,0,1,0,0,0,Bachelor's Degree,0,0,1,1,0,1,Moderately,1,1,0,0,0,0,1,Average,0,0,1,0,1,0,0,1,0
+Excellent,Investor,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,25-34 years,Excellent,1,0,1,1,1,1,0,0,1,0,0,0,Master's Degree,0,0,1,1,0,1,Moderately,0,0,0,0,0,1,1,Excellent,0,0,0,0,1,1,1,1,1
+Excellent,Academic,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,25-34 years,Excellent,0,0,0,1,1,0,1,0,0,0,0,0,Bachelor's Degree,0,0,1,0,0,0,Significant,0,0,0,0,0,1,0,Good,1,0,0,0,0,0,0,0,1
+Average,Investor,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,45-54 years,Excellent,1,0,1,0,0,0,1,0,0,0,0,0,Bachelor's Degree,0,1,0,1,0,0,Extremely,0,0,0,0,1,1,0,Poor,0,0,1,0,0,0,0,1,0
+Good,Founder,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,25-34 years,Average,1,0,1,1,1,1,0,0,0,0,1,0,Bachelor's Degree,0,1,1,0,1,0,Slightly,0,0,0,0,0,1,0,Average,0,0,0,1,0,0,1,0,1
+Average,Employee,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,25-34 years,Good,1,0,0,0,0,0,1,0,0,0,0,0,Bachelor's Degree,0,1,0,0,0,0,Significant,0,0,0,0,0,1,0,Good,0,0,1,0,1,0,0,1,0
+Excellent,Academic,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,18-24 years,Good,1,0,0,0,0,0,1,0,0,0,0,0,Bachelor's Degree,0,0,0,0,1,0,Slightly,0,0,0,0,0,1,0,Excellent,0,1,0,0,0,1,0,0,0
+Good,Academic,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,35-44 years,Average,0,0,1,0,0,0,0,0,1,0,0,0,Master's Degree,0,1,0,0,0,0,Moderately,1,0,0,0,0,0,1,Good,0,0,1,0,0,0,0,0,1
+Good,Investor,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,25-34 years,Good,1,0,1,1,1,0,0,0,0,0,1,0,Bachelor's Degree,0,0,0,0,0,1,Moderately,0,0,0,0,0,0,1,Average,0,0,0,1,0,0,0,1,0
+Good,Academic,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,35-44 years,Average,0,0,1,1,0,0,1,0,0,0,0,0,Master's Degree,0,1,0,0,0,0,Significant,0,0,0,0,1,0,0,Average,0,0,0,1,0,0,0,0,1
+Excellent,Employee,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,25-34 years,Good,0,0,1,0,0,0,1,0,0,0,0,0,Bachelor's Degree,0,0,0,1,0,0,Significant,0,0,0,0,1,0,0,Excellent,0,0,0,1,0,0,0,0,1
+Good,Founder,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,25-34 years,Average,0,0,0,1,0,1,0,0,1,0,0,0,Bachelor's Degree,0,0,1,1,1,0,Not at all,1,0,0,0,0,1,0,Very Poor,0,0,1,1,0,0,1,0,0
+Average,Investor,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,25-34 years,Average,0,0,0,0,1,0,0,1,0,0,0,0,Master's Degree,0,0,0,1,0,0,Significant,1,1,0,0,0,0,0,Average,1,0,0,0,0,0,1,0,0
+Average,Academic,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,55-64 years,Average,0,0,0,0,0,1,1,0,0,0,0,0,Master's Degree,0,0,0,1,0,0,Significant,0,0,0,0,0,1,0,Average,0,0,0,1,0,1,0,0,0
+Good,Employee,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,35-44 years,Average,1,0,0,0,0,1,1,0,0,0,0,0,Master's Degree,0,0,1,0,1,0,Moderately,0,1,0,0,1,1,0,Good,0,1,0,0,0,0,0,1,0
+Good,Employee,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,45-54 years,Good,0,0,1,0,0,0,1,0,0,0,0,0,Master's Degree,0,0,0,1,0,0,Slightly,0,0,0,0,1,0,0,Average,0,0,0,1,0,0,1,0,0
+Good,Academic,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,45-54 years,Good,1,0,0,0,0,0,1,0,0,0,0,0,Master's Degree,0,0,1,0,0,0,Slightly,0,0,0,0,1,0,0,Average,0,0,0,1,0,0,0,1,0
+Average,Employee,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,45-54 years,Good,1,0,1,0,1,0,0,0,0,0,1,0,Master's Degree,0,1,1,1,1,0,Moderately,0,0,0,0,1,0,1,Average,0,0,0,1,0,0,1,0,0
+Good,Academic,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,18-24 years,Excellent,1,0,0,0,0,0,1,0,0,0,0,0,Bachelor's Degree,0,1,0,0,0,0,Moderately,0,0,0,0,1,0,0,Excellent,0,0,0,1,0,1,0,0,0
+Poor,Employee,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,18-24 years,Average,0,0,0,0,0,1,0,0,1,0,0,0,Master's Degree,0,0,0,0,0,1,Significant,0,0,0,0,0,1,0,Very Poor,1,0,0,0,0,0,1,0,0
+Average,Academic,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,18-24 years,Average,0,0,0,0,0,1,1,0,0,0,0,0,Bachelor's Degree,0,0,0,0,1,0,Significant,0,0,0,0,0,0,1,Average,0,0,1,0,0,0,1,0,0
+Average,Investor,1,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,25-34 years,Excellent,1,0,1,0,0,0,1,0,0,0,0,0,Bachelor's Degree,0,1,1,0,0,1,Moderately,1,0,0,0,0,0,1,Average,0,1,0,1,0,0,0,1,0
+Excellent,Academic,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,18-24 years,Good,1,0,1,1,1,1,0,1,0,0,0,0,Secondary School,0,1,0,0,1,0,Significant,0,0,0,0,1,1,1,Average,1,0,0,0,1,1,1,1,1
+Average,Academic,1,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,25-34 years,Good,1,0,1,1,0,0,1,0,0,0,0,0,Bachelor's Degree,0,1,1,1,0,0,Significant,1,0,0,0,0,1,0,Average,0,0,1,0,1,0,1,1,0
+Average,Investor,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,35-44 years,Good,1,0,0,0,0,0,1,0,0,0,0,0,Master's Degree,0,0,1,0,0,0,Moderately,0,0,0,0,0,0,1,Average,1,0,0,0,0,0,0,0,1
+Average,Employee,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,25-34 years,Average,0,0,0,1,0,0,0,1,0,0,0,0,Bachelor's Degree,0,1,1,1,1,0,Moderately,0,0,0,0,1,0,0,Average,0,0,0,1,1,1,0,1,0
+Good,Investor,1,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,25-34 years,Average,0,0,1,0,1,0,0,0,0,0,1,0,Master's Degree,0,1,1,1,0,1,Significant,0,1,0,0,0,0,0,Poor,0,0,1,0,1,0,0,1,0
+Average,Founder,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,25-34 years,Good,1,0,1,1,0,1,0,1,0,0,0,0,Bachelor's Degree,0,1,1,1,1,1,Moderately,0,0,0,0,1,1,0,Poor,1,0,0,1,0,0,0,1,0
+Average,Academic,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,18-24 years,Good,0,0,0,0,0,1,0,1,0,0,0,0,Secondary School,0,1,0,0,0,0,Extremely,0,0,0,0,1,0,1,Average,0,1,0,1,0,1,0,0,1
+Good,Academic,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,18-24 years,Average,1,0,0,0,0,1,0,0,0,0,0,1,OND/HND,0,1,1,0,1,0,Significant,0,0,0,0,0,1,1,Average,0,0,0,1,0,0,0,0,1
+Excellent,Academic,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,18-24 years,Average,0,0,1,0,0,0,0,1,0,0,0,0,Secondary School,0,0,1,0,0,0,Slightly,0,0,0,0,1,0,0,Good,0,0,0,1,0,0,1,0,0
+Average,Academic,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,18-24 years,Average,0,0,1,0,0,0,0,1,0,0,0,0,Bsc,0,0,1,0,0,0,Moderately,0,0,0,0,0,0,1,Average,0,0,0,0,1,0,0,1,0
+Excellent,Academic,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,18-24 years,Excellent,0,0,0,0,0,1,0,1,0,0,0,0,Secondary School,0,0,0,0,1,1,Significant,1,0,0,0,0,0,1,Good,0,0,0,1,1,0,0,0,1
+Average,Academic,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,18-24 years,Good,0,0,0,1,0,0,0,0,1,0,0,0,Secondary School,0,0,1,0,0,0,Significant,0,0,0,0,0,1,0,Average,1,0,0,0,0,0,1,0,0
+Good,Employee,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,25-34 years,Excellent,1,0,1,0,1,0,1,0,0,0,0,0,Bachelor's Degree,0,0,1,1,0,0,Significant,1,0,0,0,1,0,0,Average,0,0,1,0,1,0,1,0,1
+Good,Academic,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,25-34 years,Good,0,0,1,0,0,0,1,0,0,0,0,0,Bachelor's Degree,0,0,0,1,0,0,Moderately,0,0,0,0,1,0,0,Good,0,0,1,0,0,0,1,0,0
+Average,Employee,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,25-34 years,Good,0,0,0,1,0,1,0,0,1,0,0,0,Bachelor's Degree,0,1,0,0,0,1,Slightly,0,0,0,0,1,0,1,Good,0,0,0,0,1,0,1,0,0
+Average,Employee,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,25-34 years,Excellent,1,0,0,0,0,0,0,0,1,0,0,0,Bachelor's Degree,0,1,1,1,1,1,Significant,0,0,0,0,0,1,0,Average,0,0,0,1,1,1,0,1,1
+Average,Academic,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,25-34 years,Excellent,0,0,1,0,0,0,0,1,0,0,0,0,Bachelor's Degree,0,1,0,0,0,0,Significant,0,0,0,0,0,0,1,Average,0,0,1,0,0,0,0,0,1
+Average,Academic,1,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,18-24 years,Good,1,0,1,1,1,1,1,0,0,0,0,0,Bachelor's Degree,0,1,1,1,1,0,Moderately,1,0,0,0,1,0,1,Good,1,0,0,0,1,0,1,0,1
+Good,Founder,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,35-44 years,Excellent,1,0,0,0,1,0,0,0,0,0,1,0,Master's Degree,0,0,1,0,0,1,Not at all,0,0,0,0,0,1,0,Average,0,0,1,0,1,0,1,1,0
+Good,Founder,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,25-34 years,Good,0,0,0,1,0,0,0,1,0,0,0,0,Bachelor's Degree,0,0,1,0,0,0,Significant,1,0,0,0,0,0,0,Excellent,1,0,0,0,0,0,0,1,0
+Poor,Founder,1,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,25-34 years,Average,1,0,1,1,0,1,1,0,0,0,0,0,Bachelor's Degree,0,1,1,1,1,0,Significant,0,0,0,0,0,1,0,Average,1,1,1,0,1,0,1,1,0
+Average,Investor,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,25-34 years,Poor,0,0,1,1,0,1,0,0,1,0,0,0,Bachelor's Degree,0,1,1,1,1,0,Moderately,1,1,0,0,0,1,0,Poor,0,0,1,1,1,0,1,0,0
+Good,Academic,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,25-34 years,Good,1,0,0,0,0,0,1,0,0,0,0,0,Secondary School,0,0,1,0,0,0,Significant,0,0,0,0,1,0,0,Average,0,0,0,0,1,0,0,1,0
+Good,Employee,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,25-34 years,Excellent,0,0,0,1,1,0,0,0,0,0,0,1,Bachelor's Degree,0,0,1,1,1,0,Extremely,0,0,0,0,1,0,1,Good,1,0,1,0,0,0,0,1,1
+Good,Academic,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,25-34 years,Good,0,0,1,0,0,0,0,1,0,0,0,0,Bachelor's Degree,0,0,0,0,1,0,Extremely,0,0,0,0,0,1,0,Excellent,0,0,0,0,1,0,0,0,1
+Average,Investor,1,1,1,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,35-44 years,Average,0,0,0,0,0,1,1,0,0,0,0,0,Bachelor's Degree,0,1,1,1,1,1,Moderately,0,0,0,0,0,1,0,Poor,0,0,1,1,1,0,1,0,0
+Good,Employee,1,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,18-24 years,Excellent,1,0,1,0,0,0,0,0,1,0,0,0,Bachelor's Degree,0,1,1,1,1,1,Slightly,0,0,0,0,0,0,1,Good,0,0,1,1,0,0,0,1,1
+Poor,Investor,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,25-34 years,Good,0,0,0,1,0,0,1,0,0,0,0,0,Bachelor's Degree,0,0,1,0,0,0,Slightly,0,0,0,0,0,0,1,Good,0,0,0,1,0,0,0,0,1
+Poor,Investor,1,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,18-24 years,Good,1,0,1,0,1,0,1,0,0,0,0,0,Secondary School,0,1,1,0,1,0,Significant,0,0,0,0,0,1,0,Good,0,0,0,1,0,0,0,1,0
+Average,Academic,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,18-24 years,Good,0,0,0,1,0,0,1,0,0,0,0,0,Bachelor's Degree,0,0,0,0,1,0,Moderately,0,0,0,0,0,1,0,Poor,0,0,1,0,0,0,0,0,1
+Excellent,Investor,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,18-24 years,Good,0,0,0,0,0,1,1,0,0,0,0,0,Bachelor's Degree,0,0,1,0,0,0,Extremely,0,0,0,0,0,1,0,Good,0,1,0,0,0,0,0,0,1
+Average,Founder,1,1,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,25-34 years,Good,0,0,0,1,0,1,0,0,1,0,0,0,Master's Degree,0,1,0,0,0,1,Slightly,0,0,0,0,0,1,0,Average,0,0,0,0,1,0,0,1,0
+Good,Employee,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,18-24 years,Good,0,0,0,0,0,1,0,1,0,0,0,0,Bachelor's Degree,0,1,0,0,0,0,Significant,0,0,0,0,0,0,1,Good,0,0,0,1,0,0,1,0,0
+Good,Academic,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,25-34 years,Good,0,0,0,0,1,0,1,0,0,0,0,0,Master's Degree,0,0,0,0,0,1,Moderately,0,0,0,0,0,1,0,Average,0,0,0,1,0,0,0,1,0
+Average,Employee,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,25-34 years,Good,1,0,0,1,0,0,0,0,0,0,1,0,Master's Degree,0,0,0,1,0,1,Slightly,1,0,0,0,0,1,0,Average,0,0,0,0,1,0,0,0,1
+Average,Employee,1,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,35-44 years,Good,1,0,0,0,1,0,0,0,0,0,1,0,Master's Degree,0,1,1,1,0,0,Extremely,0,1,0,0,0,1,0,Average,1,0,1,0,0,0,1,1,0
+Average,Academic,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,35-44 years,Average,1,0,0,0,0,0,0,0,1,0,0,0,Bachelor's Degree,0,0,1,0,0,0,Not at all,1,0,0,0,0,1,0,Good,0,0,1,0,0,0,0,1,0
+Good,Academic,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,25-34 years,Good,1,0,0,0,1,0,1,0,0,0,0,0,Secondary School,0,0,0,0,0,1,Moderately,0,0,0,0,1,0,0,Average,1,0,0,0,0,0,0,1,0
+Average,Academic,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,18-24 years,Average,0,0,0,0,0,1,0,0,0,0,0,1,Bachelor's Degree,0,1,1,0,1,1,Moderately,0,0,0,0,1,0,0,Average,0,0,0,1,0,0,0,0,1
+Average,Investor,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,18-24 years,Average,0,0,1,0,0,0,1,0,0,0,0,0,Bachelor's Degree,0,0,0,0,0,1,Moderately,0,0,0,0,1,0,0,Average,1,0,0,0,0,0,1,0,0
+Excellent,Academic,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,18-24 years,Excellent,1,0,0,0,0,0,0,1,0,0,0,0,Bachelor's Degree,0,0,1,0,0,0,Extremely,0,0,0,0,0,0,1,Average,0,0,0,1,0,0,0,1,0
+Average,Founder,1,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,25-34 years,Average,1,0,0,0,1,1,0,0,1,0,0,0,Master's Degree,0,0,1,1,1,1,Moderately,0,0,0,0,0,1,0,Average,1,0,0,1,0,0,0,1,0
+Average,Founder,1,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,25-34 years,Good,1,0,1,1,1,0,0,0,1,0,0,0,Bachelor's Degree,0,0,1,1,0,1,Significant,0,0,0,0,1,0,1,Average,0,0,1,0,0,1,1,0,0
+Poor,Academic,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,18-24 years,Average,1,0,0,0,0,0,1,0,0,0,0,0,Secondary School,0,1,0,0,0,1,Significant,0,0,0,0,1,0,0,Average,1,0,0,0,0,0,1,0,0
+Average,Academic,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,25-34 years,Poor,1,0,0,0,0,0,0,0,1,0,0,0,Secondary School,0,0,0,1,0,0,Moderately,0,0,0,0,0,1,0,Good,0,0,0,1,1,0,0,1,0
+Very Poor,Employee,1,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,25-34 years,Good,1,0,1,0,0,1,1,0,0,0,0,0,Doctorate/Ph.D,0,1,1,0,1,0,Slightly,0,0,0,0,0,1,0,Good,0,0,1,0,1,1,0,0,1
+Excellent,Academic,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,18-24 years,Excellent,1,0,0,1,0,0,0,1,0,0,0,0,Secondary School,0,0,0,0,1,0,Significant,0,0,0,0,0,1,1,Excellent,0,0,0,0,1,0,0,0,1
+Average,Investor,1,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,25-34 years,Good,1,0,1,0,0,0,1,0,0,0,0,0,Master's Degree,0,0,1,1,0,1,Not at all,1,0,0,0,0,1,1,Average,0,0,1,0,0,0,1,0,0
+Average,Academic,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,25-34 years,Average,0,0,0,1,0,0,1,0,0,0,0,0,Bachelor's Degree,0,0,0,1,0,1,Significant,0,0,0,0,1,0,1,Poor,0,0,1,0,0,1,0,0,0
+Good,Academic,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,35-44 years,Good,0,0,0,0,0,1,0,0,0,0,0,1,Bachelor's Degree,0,1,1,0,0,0,Moderately,1,0,0,0,0,0,0,Good,0,0,1,0,0,1,0,0,0
+Average,Academic,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,35-44 years,Average,1,0,0,0,0,0,1,0,0,0,0,0,OND/HND,0,1,1,0,1,0,Extremely,0,0,0,0,1,0,0,Good,0,0,0,1,0,0,0,1,0
+Average,Employee,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,25-34 years,Good,0,0,0,0,0,1,0,0,0,0,0,1,OND/HND,0,0,0,0,1,0,Extremely,0,0,0,0,1,0,0,Average,0,0,1,0,0,0,0,0,1
+Average,Academic,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,25-34 years,Good,1,0,0,0,0,0,1,0,0,0,0,0,Bachelor's Degree,0,0,1,0,0,0,Moderately,0,0,0,0,1,0,0,Good,0,0,0,1,0,0,0,0,1
+Good,Academic,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,25-34 years,Good,0,0,0,1,1,0,1,0,0,0,0,0,Bachelor's Degree,0,0,1,1,0,0,Moderately,0,0,0,0,1,1,0,Average,0,1,0,1,0,1,0,0,1
+Poor,Academic,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,18-24 years,Poor,0,0,1,0,0,1,0,1,0,0,0,0,Secondary School,0,0,0,0,1,0,Slightly,0,0,0,0,1,0,1,Good,0,0,0,0,1,0,1,0,0
+Average,Employee,1,1,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,25-34 years,Good,1,0,0,0,1,0,0,0,0,0,0,1,Master's Degree,0,1,1,0,1,0,Significant,0,0,0,0,0,1,0,Good,1,0,0,0,0,0,0,1,0
+Excellent,Academic,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,25-34 years,Excellent,0,0,0,1,0,0,1,0,0,0,0,0,Master's Degree,0,1,1,1,1,1,Extremely,1,1,0,0,1,1,1,Excellent,0,1,1,1,0,0,0,0,1
+Average,Academic,1,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,25-34 years,Average,1,0,1,0,0,0,1,0,0,0,0,0,OND/HND,0,1,1,1,1,0,Significant,0,0,0,0,0,1,0,Average,1,0,0,0,0,0,1,0,0
+Average,Academic,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,25-34 years,Average,0,0,0,1,0,0,1,0,0,0,0,0,OND/HND,0,0,0,0,1,0,Moderately,0,1,0,0,0,0,0,Average,0,0,0,0,1,0,1,0,0
+Average,Academic,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,25-34 years,Average,1,0,0,0,0,0,0,1,0,0,0,0,Bachelor's Degree,0,1,1,0,0,0,Moderately,0,0,0,0,1,0,0,Average,1,0,0,0,0,1,0,0,0
+Very Poor,Academic,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,25-34 years,Excellent,1,0,0,0,0,0,0,1,0,0,0,0,OND/HND,0,0,1,0,0,0,Extremely,0,0,0,0,1,0,0,Very Poor,0,0,0,0,1,1,0,0,0
+Very Poor,Academic,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,25-34 years,Average,1,0,0,0,0,0,0,1,0,0,0,0,Bachelor's Degree,0,0,0,0,1,0,Moderately,0,0,0,0,1,0,0,Average,0,0,0,0,1,0,0,1,0
+Good,Founder,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,25-34 years,Average,1,0,1,1,1,0,0,0,1,0,0,0,Bachelor's Degree,0,1,1,1,0,1,Extremely,1,1,0,0,0,0,1,Average,1,0,1,1,1,1,0,1,1
+Poor,Employee,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,35-44 years,Poor,0,0,1,1,0,0,1,0,0,0,0,0,OND/HND,0,0,0,1,0,0,Moderately,0,0,0,0,0,1,0,Poor,0,0,0,1,0,0,1,0,0
+Average,Founder,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,25-34 years,Good,0,0,0,0,1,0,1,0,0,0,0,0,Master's Degree,0,0,0,0,0,1,Moderately,1,0,0,0,0,1,0,Poor,1,0,0,0,1,0,0,0,1
+Average,Employee,0,0,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,25-34 years,Average,1,0,1,0,1,1,0,0,1,0,0,0,Bachelor's Degree,0,1,1,0,1,1,Significant,0,0,0,0,1,0,0,Average,0,0,1,1,0,0,1,1,1
+Average,Employee,1,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,25-34 years,Good,0,0,0,0,0,1,1,0,0,0,0,0,Master's Degree,0,0,1,0,1,0,Slightly,0,0,0,0,0,1,1,Average,0,0,1,0,0,0,1,0,0
+Excellent,Investor,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,35-44 years,Average,0,0,0,0,1,1,0,1,0,0,0,0,Bachelor's Degree,0,1,0,1,1,0,Moderately,0,0,0,0,0,0,1,Average,0,0,0,0,1,1,1,0,1
+Excellent,Academic,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,25-34 years,Poor,1,0,0,0,0,0,1,0,0,0,0,0,Bachelor's Degree,0,0,1,0,0,0,Extremely,0,0,0,0,0,1,0,Poor,1,0,1,0,0,0,0,0,1
+Good,Employee,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,25-34 years,Average,1,0,0,0,0,1,0,0,1,0,0,0,Bachelor's Degree,0,0,1,1,0,0,Slightly,0,0,0,0,0,1,0,Very Poor,1,0,0,0,0,0,1,0,0
+Average,Academic,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,25-34 years,Good,1,0,0,0,0,0,0,0,0,0,1,0,OND/HND,0,0,1,0,0,0,Significant,0,0,0,0,1,1,0,Average,0,0,1,0,0,0,0,0,1
+Good,Academic,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,45-54 years,Average,0,0,0,0,0,1,0,1,0,0,0,0,Secondary School,0,0,0,0,1,0,Not at all,0,0,0,0,1,0,0,Average,0,0,0,0,1,0,1,0,0
+Average,Founder,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,25-34 years,Good,1,0,1,0,0,1,1,0,0,0,0,0,Master's Degree,0,1,1,1,1,0,Moderately,0,0,0,0,0,1,1,Average,0,0,0,0,1,1,0,0,1
+Good,Academic,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,18-24 years,Excellent,0,0,0,1,0,0,1,0,0,0,0,0,Bachelor's Degree,0,0,0,0,1,0,Significant,0,0,0,0,1,0,0,Good,0,0,0,1,0,0,0,0,1
+Excellent,Academic,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,25-34 years,Good,0,0,0,1,0,0,0,0,1,0,0,0,Bachelor's Degree,0,0,0,0,1,0,Moderately,0,0,0,0,1,0,0,Average,0,1,0,0,0,0,1,0,0
+Average,Investor,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,25-34 years,Average,1,0,0,1,0,0,0,1,0,0,0,0,Bachelor's Degree,0,1,0,0,1,0,Moderately,0,0,0,0,1,0,0,Poor,1,0,0,0,0,0,0,0,1
+Excellent,Academic,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,25-34 years,Excellent,0,0,0,0,0,1,0,0,1,0,0,0,Master's Degree,0,1,0,0,0,0,Moderately,0,0,0,0,0,0,1,Excellent,0,1,0,0,0,1,0,0,0
+Average,Employee,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,25-34 years,Poor,1,0,0,1,0,0,0,1,0,0,0,0,Bachelor's Degree,0,0,0,1,0,0,Moderately,0,0,0,0,0,1,0,Poor,1,0,0,0,0,0,0,0,1
+Good,Employee,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,25-34 years,Good,0,0,0,0,0,1,1,0,0,0,0,0,OND/HND,0,1,0,0,0,0,Extremely,0,0,0,0,0,1,0,Good,0,0,1,0,0,1,0,0,0
+Good,Academic,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,25-34 years,Excellent,0,0,0,1,0,0,1,0,0,0,0,0,Bachelor's Degree,0,0,0,1,0,0,Slightly,0,0,0,0,0,1,0,Excellent,0,0,0,0,1,1,0,0,0
+Good,Academic,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,25-34 years,Average,0,0,0,0,0,1,1,0,0,0,0,0,Secondary School,0,1,0,0,0,0,Extremely,0,0,0,0,1,0,0,Good,0,0,1,0,0,0,0,1,0
+Excellent,Academic,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,25-34 years,Excellent,0,0,0,1,0,0,0,1,0,0,0,0,Bachelor's Degree,0,0,1,0,0,0,Not at all,0,0,0,0,1,1,0,Excellent,0,1,0,0,0,0,0,0,1
+Average,Employee,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,18-24 years,Good,0,0,0,0,1,0,0,0,1,0,0,0,Secondary School,0,1,0,0,0,0,Moderately,0,0,0,0,0,1,0,Good,0,0,1,0,0,0,1,0,0
+Average,Employee,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,25-34 years,Good,0,0,1,0,0,0,1,0,0,0,0,0,Bachelor's Degree,0,1,0,0,0,0,Slightly,0,0,0,0,0,1,0,Average,1,0,0,0,0,0,0,1,0
+Average,Academic,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,35-44 years,Average,0,0,0,0,0,1,1,0,0,0,0,0,Master's Degree,0,1,0,0,0,0,Significant,0,0,0,0,0,1,0,Poor,0,0,0,1,0,0,1,0,0
+Poor,Academic,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,25-34 years,Average,1,0,1,1,1,1,1,0,0,0,0,0,Bachelor's Degree,0,1,1,1,1,0,Slightly,0,0,0,0,0,1,0,Average,1,0,0,0,0,0,0,1,0
+Very Poor,Investor,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,25-34 years,Good,1,0,1,0,0,0,0,0,1,0,0,0,Bachelor's Degree,0,1,1,1,0,0,Significant,0,0,0,0,0,1,0,Average,0,0,0,0,1,0,0,0,1
+Average,Academic,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,18-24 years,Average,0,0,0,1,0,0,1,0,0,0,0,0,OND/HND,0,1,0,0,0,0,Moderately,0,0,0,0,0,1,0,Average,0,0,0,1,0,0,0,0,1
+Good,Academic,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,18-24 years,Good,1,0,0,1,0,1,0,1,0,0,0,0,Bachelor's Degree,0,0,1,0,0,0,Moderately,0,0,0,0,0,1,0,Good,0,1,0,1,0,0,0,0,1
+Poor,Employee,1,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,25-34 years,Excellent,1,0,1,1,1,1,1,0,0,0,0,0,Bachelor's Degree,0,1,1,1,1,1,Moderately,1,0,0,0,0,1,0,Average,0,0,1,0,0,0,1,1,0
+Average,Academic,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,25-34 years,Good,1,0,1,1,1,1,0,0,0,0,0,1,Master's Degree,0,1,1,1,1,1,Slightly,0,0,0,0,0,1,0,Good,1,0,1,0,1,0,1,0,0
+Average,Academic,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,18-24 years,Average,1,0,0,0,0,0,0,0,1,0,0,0,OND/HND,0,0,0,0,1,0,Moderately,0,0,0,0,0,1,0,Good,0,1,0,0,0,1,0,0,0
+Average,Academic,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,18-24 years,Average,1,0,1,0,0,0,0,0,1,0,0,0,Secondary School,0,0,0,0,0,1,Moderately,0,1,0,0,0,0,1,Average,1,0,1,0,0,0,1,0,0
+Average,Employee,1,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,18-24 years,Average,1,0,1,1,1,1,0,0,0,0,1,0,Master's Degree,0,1,1,0,1,0,Moderately,0,1,0,0,0,1,0,Average,1,0,0,0,1,1,0,0,0
+Good,Investor,1,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,25-34 years,Good,0,0,1,0,0,0,1,0,0,0,0,0,Master's Degree,0,0,1,0,0,0,Extremely,0,1,0,0,0,0,0,Excellent,0,0,0,1,0,0,0,0,1
+Average,Investor,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,35-44 years,Average,1,0,0,1,0,1,0,0,0,0,0,1,Doctorate/Ph.D,0,0,1,0,1,1,Moderately,0,0,0,0,0,1,0,Average,0,0,1,1,0,1,1,1,0
+Average,Academic,1,1,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,18-24 years,Average,0,0,0,1,1,1,0,0,0,0,0,1,Secondary School,0,0,0,1,1,0,Significant,1,0,0,0,1,1,1,Good,0,0,0,1,1,1,0,1,0
+Poor,Academic,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,18-24 years,Excellent,1,0,0,0,0,0,0,0,1,0,0,0,Bachelor's Degree,0,0,1,0,0,0,Moderately,0,0,0,0,0,1,0,Average,0,0,0,0,1,0,0,0,1
+Good,Employee,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,25-34 years,Good,0,0,0,0,0,1,0,1,0,0,0,0,OND/HND,0,0,1,0,0,0,Moderately,0,0,0,0,0,1,0,Average,0,0,1,0,0,0,1,0,0
+Average,Employee,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,18-24 years,Good,0,0,1,0,0,0,0,1,0,0,0,0,Secondary School,0,0,0,0,1,0,Extremely,0,0,0,0,0,0,1,Good,0,0,0,0,1,0,0,1,0
+Good,Academic,1,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,18-24 years,Very Poor,1,0,1,1,1,0,0,1,0,0,0,0,Bachelor's Degree,0,1,1,1,1,1,Significant,0,0,0,0,0,0,1,Poor,1,0,1,0,1,1,1,1,1
+Average,Investor,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,35-44 years,Average,1,0,0,0,0,0,1,0,0,0,0,0,Bachelor's Degree,0,0,1,0,0,0,Moderately,1,0,0,0,0,0,0,Good,0,0,0,1,0,0,0,1,0
+Average,Investor,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,35-44 years,Average,0,0,1,0,0,0,0,1,0,0,0,0,Bachelor's Degree,0,0,0,0,0,1,Significant,0,1,0,0,0,0,1,Average,1,0,0,0,0,0,0,0,1
+Good,Founder,1,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,18-24 years,Average,0,0,0,1,0,1,0,0,1,0,0,0,Bachelor's Degree,0,1,0,0,1,0,Slightly,0,0,0,0,0,1,0,Good,1,0,0,0,0,1,1,1,1
+Good,Academic,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,18-24 years,Good,1,0,0,0,0,0,1,0,0,0,0,0,Bachelor's Degree,0,0,1,0,0,0,Slightly,0,0,0,0,1,0,0,Good,0,0,0,1,0,1,0,0,0
+Good,Academic,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,25-34 years,Good,0,0,0,1,0,0,1,0,0,0,0,0,OND/HND,0,0,0,1,0,0,Significant,0,0,0,0,1,0,0,Good,0,1,0,0,0,0,0,0,1
+Excellent,Employee,1,1,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,18-24 years,Excellent,1,0,1,1,1,1,1,0,0,0,0,0,Master's Degree,0,0,1,0,0,0,Significant,1,1,0,0,0,0,0,Excellent,0,0,0,1,0,0,0,1,0
+Good,Investor,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,45-54 years,Good,1,0,1,0,1,0,1,0,0,0,0,0,OND/HND,0,1,1,0,1,1,Slightly,0,0,0,1,0,1,0,Poor,0,0,1,1,1,0,1,1,0
+Average,Employee,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,35-44 years,Good,1,0,1,0,0,1,0,0,0,0,0,1,Master's Degree,0,1,1,0,0,0,Significant,1,1,0,0,0,1,0,Average,1,0,0,0,1,0,1,0,0
+Average,Academic,1,1,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,25-34 years,Good,1,0,1,1,1,1,0,1,0,0,0,0,Bachelor's Degree,0,1,1,1,1,1,Significant,0,0,0,0,0,1,0,Poor,0,0,0,0,1,0,1,0,0
+Average,Founder,1,1,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,25-34 years,Average,1,0,1,1,1,1,1,0,0,0,0,0,Bachelor's Degree,0,0,0,1,0,0,Moderately,0,0,0,0,0,1,0,Poor,1,0,1,0,0,0,1,0,0
+Average,Academic,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,18-24 years,Excellent,0,0,0,0,1,0,0,0,0,0,1,0,Training ,0,0,0,0,1,0,Moderately,0,0,0,0,1,0,0,Good,0,0,0,0,1,1,0,0,0
+Good,Academic,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,45-54 years,Good,0,0,0,0,1,0,1,0,0,0,0,0,Master's Degree,0,0,0,0,1,0,Not at all,0,0,0,0,0,0,1,Good,0,1,0,0,0,1,0,0,0
+Good,Academic,1,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,35-44 years,Excellent,1,0,1,0,1,0,1,0,0,0,0,0,Master's Degree,0,1,1,1,0,1,Extremely,1,1,0,0,0,1,1,Average,1,0,1,1,1,1,1,1,1
+Average,Academic,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,25-34 years,Good,1,0,0,0,0,1,1,0,0,0,0,0,Bachelor's Degree,0,0,0,0,1,0,Slightly,0,1,0,0,0,1,0,Average,0,0,1,0,0,0,0,1,0
+Average,Academic,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,25-34 years,Good,0,0,0,0,0,1,0,0,0,0,0,1,Bachelor's Degree,0,0,1,0,0,0,Significant,0,0,0,0,1,0,0,Good,1,0,0,0,0,1,0,0,0
+Excellent,Academic,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,25-34 years,Good,1,0,1,1,1,1,0,0,0,1,0,0,OND/HND,1,0,0,0,0,0,Significant,0,0,0,0,0,1,0,Good,1,0,0,0,0,0,0,0,1
+Poor,Employee,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,18-24 years,Poor,0,0,0,0,0,1,0,0,0,0,0,1,Bachelor's Degree,0,0,0,0,1,0,Moderately,0,0,0,0,0,1,0,Excellent,0,0,1,1,0,0,0,0,1
+Good,Employee,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,25-34 years,Excellent,0,0,0,0,0,1,0,1,0,0,0,0,Bachelor's Degree,0,0,0,0,1,0,Extremely,0,0,0,0,1,0,0,Excellent,0,0,0,0,1,1,0,0,0
+Average,Academic,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,35-44 years,Good,0,0,1,0,0,1,1,0,0,0,0,0,Master's Degree,0,0,0,0,1,0,Significant,1,0,0,0,1,0,0,Good,1,0,0,0,0,0,0,1,0
+Good,Employee,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,25-34 years,Average,1,0,0,1,0,1,0,0,1,0,0,0,Bachelor's Degree,0,0,1,0,1,0,Moderately,0,0,0,0,1,0,1,Good,1,0,0,1,0,1,0,0,1
+Good,Academic,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,18-24 years,Good,0,0,0,1,0,0,0,0,1,0,0,0,Secondary School,0,0,0,0,1,0,Slightly,0,0,0,0,0,1,0,Good,0,1,0,0,0,0,1,0,0
+Excellent,Investor,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,18-24 years,Good,1,0,0,0,0,1,0,0,1,0,0,0,Secondary School,0,0,0,0,1,0,Significant,0,1,0,0,0,0,0,Average,1,0,0,0,0,0,1,0,0
+Average,Policymaker,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,25-34 years,Good,0,0,0,0,0,1,1,0,0,0,0,0,Bachelor's Degree,0,0,0,0,1,0,Moderately,0,0,0,0,1,0,0,Good,1,0,0,0,0,0,0,1,0
+Poor,Academic,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,18-24 years,Average,1,0,0,0,0,0,1,0,0,0,0,0,Secondary School,0,1,0,0,0,0,Slightly,0,0,0,0,1,0,0,Average,0,0,0,1,0,0,0,0,1
+Poor,Policymaker,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,45-54 years,Average,0,0,0,0,0,1,1,0,0,0,0,0,Bachelor's Degree,0,0,0,0,1,0,Moderately,0,1,0,0,0,0,0,Good,0,0,1,0,0,0,1,0,0
+Poor,Academic,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,25-34 years,Average,1,0,0,0,0,0,0,0,1,0,0,0,Bachelor's Degree,0,0,0,0,1,0,Significant,0,0,0,0,1,0,0,Average,0,0,0,1,0,0,0,1,0
+Average,Founder,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,25-34 years,Good,1,0,1,0,1,1,1,0,0,0,0,0,Master's Degree,0,1,1,0,1,1,Not at all,1,0,0,0,0,1,1,Average,0,0,1,0,1,0,0,1,0
+Average,Investor,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,25-34 years,Good,1,0,0,0,0,0,0,0,1,0,0,0,Master's Degree,0,0,1,0,0,0,Moderately,0,0,0,0,1,0,0,Good,1,0,0,0,0,0,0,1,0
+Good,Academic,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,18-24 years,Good,0,0,0,0,0,1,1,0,0,0,0,0,Bachelor's Degree,0,0,0,0,1,0,Not at all,0,0,0,0,0,1,0,Good,0,0,0,1,0,0,1,0,0
+Good,Academic,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,25-34 years,Excellent,1,0,0,0,0,0,0,1,0,0,0,0,Bachelor's Degree,0,0,1,0,1,0,Extremely,0,0,0,0,0,1,0,Good,0,0,0,0,1,1,0,0,0
+Average,Academic,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,35-44 years,Good,0,0,0,0,0,1,0,1,0,0,0,0,Bachelor's Degree,0,0,0,0,1,0,Significant,0,0,0,0,0,1,0,Average,1,0,0,0,0,0,0,0,1
+Average,Investor,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,25-34 years,Excellent,1,0,0,0,0,0,0,0,1,0,0,0,Master's Degree,0,0,1,1,0,0,Moderately,0,0,0,0,0,1,0,Good,0,0,1,0,0,0,1,0,0
+Very Poor,Academic,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,18-24 years,Excellent,1,0,1,1,1,1,1,0,0,0,0,0,Secondary School,0,1,1,1,0,1,Slightly,1,0,0,0,1,0,1,Excellent,0,0,0,0,1,0,0,0,1
+Average,Investor,1,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,35-44 years,Good,1,0,0,1,1,1,1,0,0,0,0,0,Bachelor's Degree,0,0,1,0,1,1,Significant,0,0,0,0,1,1,0,Average,0,0,1,1,0,1,1,0,1
+Average,Academic,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,18-24 years,Good,0,0,0,1,0,0,0,0,1,0,0,0,Bachelor's Degree,0,1,0,0,0,0,Moderately,0,0,0,0,0,1,0,Average,0,0,0,1,0,1,0,0,0
+Poor,Employee,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,25-34 years,Poor,0,0,0,0,1,0,0,0,0,0,0,1,Bachelor's Degree,0,0,0,1,0,0,Significant,0,0,0,0,0,1,0,Average,1,0,0,0,0,0,0,1,0
+Poor,Employee,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,45-54 years,Average,0,0,0,0,1,0,0,0,0,0,1,0,Bachelor's Degree,0,0,0,0,0,1,Significant,0,0,0,0,0,1,0,Average,0,0,0,0,1,0,1,0,0
+Average,Academic,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,25-34 years,Excellent,1,0,1,1,1,1,0,1,0,0,0,0,Bachelor's Degree,0,1,1,0,1,0,Slightly,0,0,0,0,0,1,0,Average,0,0,1,0,1,1,0,0,1
+Good,Founder,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,25-34 years,Good,0,0,1,0,0,0,0,0,1,0,0,0,Bachelor's Degree,0,1,0,0,0,0,Significant,0,0,0,0,1,0,0,Good,0,0,0,1,0,0,0,0,1
+Poor,Academic,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,35-44 years,Poor,0,0,1,1,0,0,0,1,0,0,0,0,Bachelor's Degree,0,1,0,0,0,0,Not at all,0,0,0,0,0,1,0,Good,0,1,0,0,0,0,0,1,0
+Average,Academic,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,35-44 years,Good,0,0,1,0,0,0,0,0,0,0,1,0,Master's Degree,0,0,0,1,0,0,Slightly,0,0,0,0,0,1,0,Very Poor,0,0,1,0,0,0,0,1,0
+Good,Employee,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,25-34 years,Excellent,0,0,1,0,0,0,0,0,1,0,0,0,Barrister at Law(BL),0,1,1,1,0,1,Significant,0,0,0,0,0,1,0,Good,0,0,1,1,0,0,0,1,0
+Good,Employee,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,25-34 years,Good,1,0,0,0,0,0,1,0,0,0,0,0,Bachelor's Degree,0,0,0,1,0,0,Slightly,0,0,0,0,0,1,0,Good,0,0,0,1,0,0,1,0,0
+Poor,Academic,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,25-34 years,Good,1,0,0,0,0,0,1,0,0,0,0,0,Master's Degree,0,0,1,0,0,0,Significant,0,0,0,0,1,0,0,Poor,0,0,0,0,1,1,0,0,0
+Poor,Founder,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,35-44 years,Excellent,1,0,1,0,1,0,0,1,0,0,0,0,Bachelor's Degree,0,1,1,0,0,1,Significant,0,1,0,0,0,0,0,Poor,0,0,1,1,1,1,1,0,0
+Average,Academic,1,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,25-34 years,Good,1,0,1,0,1,1,0,0,0,0,0,1,PGD,0,1,1,0,1,0,Moderately,0,0,0,0,0,1,0,Average,0,0,1,0,0,1,0,1,1
+Poor,Founder,1,1,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,45-54 years,Poor,1,0,1,1,1,1,0,0,0,0,1,0,Bachelor's Degree,0,1,1,0,1,1,Moderately,0,0,0,0,1,1,0,Poor,0,0,1,1,1,0,0,1,0
+Good,Academic,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,18-24 years,Good,1,0,0,0,0,0,1,0,0,0,0,0,Secondary School,0,1,0,0,0,0,Extremely,0,0,0,0,0,1,0,Good,1,0,0,0,0,0,0,0,1
+Poor,Employee,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,25-34 years,Excellent,1,0,1,0,0,0,1,0,0,0,0,0,Bachelor's Degree,0,1,1,0,1,0,Significant,0,0,0,0,0,1,0,Average,1,0,0,0,0,0,0,0,1
+Average,Employee,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,18-24 years,Good,1,0,1,1,1,1,0,0,1,0,0,0,Bachelor's Degree,0,1,1,1,1,1,Moderately,1,0,0,0,0,0,0,Average,0,0,1,0,1,0,0,1,0
+Excellent,Academic,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,45-54 years,Average,0,0,0,0,1,0,1,0,0,0,0,0,Master's Degree,0,1,0,0,0,0,Moderately,0,0,0,0,1,0,0,Good,0,0,0,1,0,0,1,0,0
+Poor,Employee,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,35-44 years,Average,0,0,0,0,0,1,1,0,0,0,0,0,OND/HND,0,0,1,0,1,0,Significant,0,0,0,0,1,0,0,Average,0,0,0,0,1,0,0,0,1
+Average,Founder,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,25-34 years,Average,1,0,0,1,0,1,1,0,0,0,0,0,Bachelor's Degree,0,0,1,0,1,0,Slightly,1,0,0,0,0,1,0,Average,0,0,1,0,0,0,1,1,0
+Average,Academic,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,25-34 years,Average,0,0,1,1,0,0,1,0,0,0,0,0,Master's Degree,0,0,1,0,0,0,Significant,0,0,0,0,0,1,0,Good,0,0,0,0,1,0,0,1,0
+Good,Academic,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,35-44 years,Good,0,0,1,0,0,0,0,0,1,0,0,0,Master's Degree,0,1,0,0,0,0,Significant,0,0,0,0,0,1,0,Good,0,0,0,1,0,0,0,1,0
+Average,Employee,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,25-34 years,Good,0,0,0,0,0,1,0,0,1,0,0,0,Bachelor's Degree,0,0,0,0,1,0,Moderately,0,0,0,0,0,1,0,Average,0,0,1,0,0,0,1,0,0
+Average,Academic,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,25-34 years,Average,0,0,0,0,0,1,0,0,0,0,1,0,Master's Degree,0,1,0,0,0,0,Moderately,0,0,0,0,0,0,1,Good,1,0,0,0,0,0,1,0,0
+Average,Academic,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,25-34 years,Average,0,0,0,0,0,1,0,0,0,0,1,0,OND/HND,0,0,0,0,1,0,Moderately,0,0,0,0,0,1,0,Average,0,0,0,1,0,0,1,0,0
+Good,Employee,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,25-34 years,Good,1,0,0,1,1,1,1,0,0,0,0,0,Bachelor's Degree,0,0,1,0,1,1,Moderately,1,0,0,0,0,1,1,Good,0,1,1,1,0,1,1,0,0
+Good,Employee,1,1,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,35-44 years,Good,1,0,1,1,0,1,0,0,1,0,0,0,Bachelor's Degree,0,1,1,1,1,0,Not at all,1,1,0,0,1,0,1,Good,1,0,1,0,1,1,1,0,1
+Excellent,Employee,1,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,25-34 years,Excellent,1,0,1,1,0,0,0,0,0,0,0,1,Bachelor's Degree,0,1,0,0,1,0,Significant,0,0,0,0,1,1,0,Excellent,0,0,0,0,1,0,0,0,1
+Average,Academic,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,25-34 years,Average,0,0,1,0,0,0,0,0,0,0,0,1,Master's Degree,0,1,0,0,1,1,Extremely,0,0,0,0,0,1,0,Average,1,0,0,0,0,0,1,0,0
+Average,Employee,1,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,35-44 years,Average,1,0,1,0,1,0,1,0,0,0,0,0,Master's Degree,0,1,1,1,0,1,Significant,1,0,0,0,0,1,1,Average,0,0,1,1,1,0,1,1,0
+Average,Founder,1,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,18-24 years,Good,1,0,1,1,1,0,1,0,0,0,0,0,Master's Degree,0,1,1,1,1,1,Significant,1,0,0,0,0,1,1,Good,0,1,1,0,0,0,0,1,1
+Average,Employee,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,25-34 years,Good,0,0,0,1,0,0,0,0,1,0,0,0,Master's Degree,0,0,1,0,0,0,Significant,0,0,0,0,1,1,0,Average,0,0,1,0,1,0,1,0,0
+Good,Founder,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,18-24 years,Good,1,0,0,0,0,0,0,0,1,0,0,0,Secondary School,0,1,0,0,0,0,Significant,0,0,0,0,0,0,1,Average,0,0,0,1,0,1,0,0,0
+Good,Academic,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,35-44 years,Good,0,0,0,1,0,0,0,1,0,0,0,0,OND/HND,0,0,1,0,0,0,Significant,0,0,0,0,1,0,0,Good,1,0,0,0,0,1,0,0,0
+Good,Academic,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,35-44 years,Good,0,0,0,0,0,1,0,0,0,0,0,1,Bachelor's Degree,0,1,0,0,0,0,Slightly,0,0,0,0,0,1,0,Good,0,0,1,0,0,0,1,0,0
+Average,Founder,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,35-44 years,Good,0,0,0,1,0,0,0,1,0,0,0,0,Bachelor's Degree,0,1,0,0,0,0,Moderately,0,0,0,0,0,1,0,Average,1,0,0,0,1,0,0,1,0
+Average,Academic,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,25-34 years,Average,0,0,1,0,0,0,1,0,0,0,0,0,Doctorate/Ph.D,0,1,0,0,0,0,Significant,0,0,0,0,0,1,0,Average,0,0,1,0,0,0,0,1,0
+Average,Employee,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,45-54 years,Average,0,0,0,0,0,1,0,0,1,0,0,0,Master's Degree,0,0,0,0,1,0,Moderately,0,0,0,0,0,1,0,Average,0,0,0,0,1,0,0,1,0
+Average,Investor,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,35-44 years,Average,0,0,0,1,1,1,0,0,0,0,1,0,Bachelor's Degree,0,0,0,0,0,1,Moderately,0,0,0,0,0,0,1,Average,0,0,1,0,1,1,1,0,0
+Average,Academic,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,25-34 years,Average,1,0,1,1,1,1,1,0,0,0,0,0,Bachelor's Degree,0,1,1,1,1,1,Moderately,1,1,0,0,1,1,1,Average,1,1,1,1,1,1,1,1,1
+Poor,Employee,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,18-24 years,Good,1,0,1,0,1,0,0,0,1,0,0,0,Secondary School,0,0,1,1,1,1,Slightly,1,0,0,0,0,0,1,Average,0,0,0,0,1,0,0,1,1
+Average,Academic,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,18-24 years,Average,1,0,0,0,0,0,1,0,0,0,0,0,Bachelor's Degree,0,0,1,0,0,0,Not at all,0,0,0,0,0,1,0,Excellent,1,0,0,0,0,0,1,0,0
+Good,Employee,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,25-34 years,Poor,0,0,0,0,0,1,0,0,0,0,1,0,Bachelor's Degree,0,1,1,0,1,0,Significant,0,0,0,0,0,0,1,Average,0,0,0,0,1,0,1,0,0
+Average,Employee,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,25-34 years,Excellent,1,0,1,1,1,1,1,0,0,0,0,0,Bachelor's Degree,0,1,1,1,1,1,Slightly,0,0,0,0,0,1,1,Good,0,0,1,0,1,0,0,0,1
+Good,Investor,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,45-54 years,Good,0,0,0,1,0,0,0,0,0,0,0,1,OND/HND,0,0,0,1,0,0,Significant,0,0,0,0,0,1,0,Average,0,0,0,1,0,0,0,0,1
+Average,Investor,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,25-34 years,Good,0,0,0,0,0,1,1,0,0,0,0,0,Bachelor's Degree,0,0,1,0,0,0,Significant,0,1,0,0,0,0,0,Excellent,1,0,0,0,0,1,0,0,0
+Average,Academic,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,45-54 years,Good,0,0,0,0,0,1,1,0,0,0,0,0,Master's Degree,0,0,1,0,0,0,Moderately,0,0,0,0,1,0,0,Good,0,0,1,0,0,0,0,0,1
+Good,Employee,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,35-44 years,Average,0,1,0,0,0,0,1,0,0,0,0,0,Master's Degree,0,0,1,0,0,0,Moderately,0,0,0,0,0,1,0,Average,0,0,0,0,1,0,0,1,0
+Average,Academic,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,35-44 years,Average,1,0,1,1,1,1,1,0,0,0,0,0,Master's Degree,0,1,1,0,1,1,Moderately,0,0,1,0,0,1,0,Poor,1,0,0,1,1,0,0,1,0
+Poor,Academic,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,25-34 years,Excellent,0,0,0,0,0,1,1,0,0,0,0,0,Master's Degree,0,0,0,0,1,0,Extremely,0,1,0,0,0,0,0,Good,0,0,0,1,0,1,0,0,0
+Good,Founder,1,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,25-34 years,Good,1,0,0,1,1,0,1,0,0,0,0,0,Bachelor's Degree,0,1,1,0,0,0,Significant,0,0,0,0,0,1,1,Average,0,0,0,1,0,0,0,1,1
+Average,Employee,1,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,35-44 years,Average,1,0,1,1,1,1,0,1,0,0,0,0,Doctorate/Ph.D,0,1,1,1,0,1,Significant,0,0,0,0,0,1,1,Average,0,0,0,1,0,0,0,0,1
